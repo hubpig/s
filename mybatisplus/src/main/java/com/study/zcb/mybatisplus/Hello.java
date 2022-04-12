@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("hot-fix 代码冲突");
         System.out.println("master 代码冲突");
         System.out.println("push github");
+        System.out.println("hhh push");
     }
 }
