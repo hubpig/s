@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("hihihi");
         System.out.println("xixixi");
         System.out.println("meger");
+        System.out.println("hot-fix 代码冲突");
     }
 }
